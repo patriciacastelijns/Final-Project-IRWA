@@ -16,9 +16,15 @@ The project is structured in the following way:
 (Note: This README is cumulative, meaning we will add the information of each part as we complete it.)
 
 
+# Text Processing and Exploratory Data Analysis
+
+This part is divided in two steps: 
+1. **Text Preprocessing**: this initial step involves preprocessing the tweets. This includes the removal of stop words, tokenization, elimination of punctuation marks, stemming, and any other necessary techniques to enhance the data quality. Our goal is to refine the tweets for meaningful analysis, ensuring accuracy and relevance in the subsequent stages of the project. 
+2. **Exploratory Data Analysis**: in this step the goal is to gain insights from the preprocessed dataset. This involved a thorough examination and statistical analysis of the content, such as word counting distribution, average sentence length, vocabulary size, identification of the most retweeted tweets, creation of word clouds to visualize the most frequent words, sentiment analysis and social network analysis. By conducting this comprehensive analysis, we uncovered patterns and information related to the Russo-Ukrainian War tweets.
+
 ## Prerequisites
 
-Before running the Python Notebook included in this project, ensure that you have the following prerequisites installed on your system:
+Before running the Python Notebook, ensure that you have the following prerequisites installed on your system:
 
 - **Python**: Make sure you have Python installed on your system. You can download Python from the [official Python website](https://www.python.org/).
 
@@ -63,7 +69,7 @@ Before running the Python Notebook included in this project, ensure that you hav
 ## How to Use
 ### Running Locally
 
-If you want to run this project on your local machine, follow these steps:
+If you want to run this python notebook on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```
@@ -83,7 +89,6 @@ Ensure you have the required dependencies installed as mentioned in the "Prerequ
 
 
 ### Running in Google Colab
-You will need to download or clone the project file from the source repository, or you can manually upload it to Google Colab.
 
 To run this project in Google Colab, follow these steps:
 
@@ -102,6 +107,7 @@ To run this project in Google Colab, follow these steps:
 
 5. **Run the Project**:
 You can run individual code cells by clicking the play button in each cell or run all cells at once using the "Runtime" menu.
+   
    
 
 
