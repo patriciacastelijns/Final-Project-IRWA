@@ -99,7 +99,7 @@ To run this project in Google Colab, follow these steps:
 
 3. **Open the Notebook**: Click on "File" and then select "Open notebook." Upload a the notebook from your computer or access from your Google Drive.
 
-4. **Mount Google Drive (if necessary)**: the notebook requires access to csv of data ids, and JSON file that contains a set of tweets related to the Russo- Ukrainian War the tweets in your Google Drive. You can mount your Google Drive by adding the following code at the beginning of your notebook:
+4. **Mount Google Drive**: the notebook requires access to csv of data ids, and JSON file that contains a set of tweets related to the Russo- Ukrainian War the tweets in your Google Drive. You can mount your Google Drive by adding the following code at the beginning of your notebook:
    
    ```python
    from google.colab import drive
