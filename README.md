@@ -16,7 +16,7 @@ The project is structured in the following way:
 (Note: This README is cumulative, meaning we will add the information of each part as we complete it.)
 
 
-# Text Processing and Exploratory Data Analysis
+## Part 1: Text Processing and Exploratory Data Analysis
 
 This part is divided in two steps: 
 1. **Text Preprocessing**: this initial step involves preprocessing the tweets. This includes the removal of stop words, tokenization, elimination of punctuation marks, stemming, and any other necessary techniques to enhance the data quality. Our goal is to refine the tweets for meaningful analysis, ensuring accuracy and relevance in the subsequent stages of the project. 
