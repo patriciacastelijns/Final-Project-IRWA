@@ -89,7 +89,7 @@ Ensure you have the required dependencies installed as mentioned in the "Prerequ
 
 
 ### Running in Google Colab
-
+You will need to download or clone the project file from the source repository, or you can manually upload it to Google Colab.
 To run this project in Google Colab, follow these steps:
 
 
