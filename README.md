@@ -1,9 +1,5 @@
 # Final-IRWA-Project-2023
 
-## Authors
-
-Lida Calsamiglia, Patricia Castelijns, Francesca Mees
-
 
 ## Overview
 For the subject "Information Retrieval and Web Analysis" taught by the UPF University, we conducted a project with the aim of building a search engine implementing different indexing and ranking algorithms. We specifically worked with Russian-Ukrainian tweets. 
@@ -114,3 +110,6 @@ You can run individual code cells by clicking the play button in each cell or ru
 
 
 
+## Authors
+
+Lida Calsamiglia, Patricia Castelijns, Francesca Mees
