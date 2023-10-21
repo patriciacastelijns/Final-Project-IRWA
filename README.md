@@ -15,10 +15,6 @@ The project is structured in the following way:
 
 (Note: This README is cumulative, meaning we will add the information of each part as we complete it.)
 
-### Part 1: Text Processing and Exploratory Data Analysis
-This part is divided in two steps: 
-1. **Text Preprocessing**: this initial step involves preprocessing the tweets. This includes the removal of stop words, tokenization, elimination of punctuation marks, stemming, and any other necessary techniques to enhance the data quality. Our goal is to refine the tweets for meaningful analysis, ensuring accuracy and relevance in the subsequent stages of the project. 
-2. **Exploratory Data Analysis**: in this step the goal is to gain insights from the preprocessed dataset. This involved a thorough examination and statistical analysis of the content, such as word counting distribution, average sentence length, vocabulary size, identification of the most retweeted tweets, creation of word clouds to visualize the most frequent words, sentiment analysis and social network analysis. By conducting this comprehensive analysis, we uncovered patterns and information related to the Russo-Ukrainian War tweets.
 
 ## Prerequisites
 
